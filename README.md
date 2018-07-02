@@ -1,1 +1,1 @@
-# intelligentapps
+# Intelligent Applications
